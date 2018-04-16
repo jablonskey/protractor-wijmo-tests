@@ -1,0 +1,14 @@
+{
+  "name": "citi_protractor_tests",
+  "version": "1.0.0",
+  "description": "exercises with wijmo grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Łukasz Jabłoński",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
